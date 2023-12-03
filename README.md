@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to improve my UX and UI design ;)
 - 💞️ I’m looking to collaborate on the Valency Project with people who have experience in Blockchain development (from scratch) and C++.
 - 💵 I'm currently focusing 100% of my effort on Valency - a cryptocurrency exchange built with technology that enables transparency.
-- 💵 Currently raising seed capital to get regulated in Australia - this will allow me to launch my cryptocurrency exchange to the public.
+- 💸 ~Currently raising seed capital to get regulated in Australia - this will allow me to launch my cryptocurrency exchange to the public.~ **Now Bootstrapping until exchange app release!**
 - 📫 You can reach me at: isaacljubic@valency.dev
 
 <!---
