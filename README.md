@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @isaacljubic
-- 👀 I’m interested in Blockchain, AI, and low-level programming. I am currently developing the Valency Project, which consists of a decentralized network and cryptocurrency exchange. You can read more here: https://valency.dev/The-Valency-Project.pdf (still relevant, just currently focusing my effort on the Exchange rather than the Network)
-- 🌱 I’m currently learning to improve my UX and UI design ;)
-- 💞️ I’m looking to collaborate on the Valency Project with people who have experience in Blockchain development (from scratch) and C++.
-- 💵 I'm currently focusing 100% of my effort on Valency - a cryptocurrency exchange built with technology that enables transparency.
-- 💸 ~Currently raising seed capital to get regulated in Australia - this will allow me to launch my cryptocurrency exchange to the public.~ **Now Bootstrapping until exchange app release!**
+- 👀 I’m interested in Blockchain, AI, and low-level programming. I am currently developing the Valency Exchange, which is a cryptocurrency exchange that will launch Q4 2024 in Australia. 
+- 🌱 My previous projects include valency-core - a modular framework used to build the valency network. You can read more about this project here: https://valency.dev/The-Valency-Project.pdf
+- 💵 The Valency Exchange enables OTC Spot Trades through our group of industry leading partners. Our app is open-source, and we provide the lowest initial fee of ANY Australian Exchange.
+- 💸 **The Valency Excahnge is being bootstrapped until release! Please email me if you have any business enquiries.**
 - 📫 You can reach me at: isaacljubic@valency.dev
 
 <!---
