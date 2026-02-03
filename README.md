@@ -14,11 +14,24 @@ Open-source Australian crypto exchange focused on low fees, transparency, and pe
 
 ### OEX Timepieces: Custom Watches
 Consumer-facing watch brand featuring a fully interactive online watch configurator.
-- React Configurator
+- React Web UI for Homepage, Configurator, and Dashboard.
 - FastAPI Backend
 - Assembled in Australia
 
 🔗 https://oextime.com  
+
+---
+
+### HolyAI: AI Chatbot Platform
+AI-powered chatbot platform that lets you have meaningful conversations with AI interpretations of religious figures.
+- Custom React Web UI.
+- FastAPI Backend.
+- Custom Fine-Tuned AI Model running via Inference APIs.
+- Prompt injection for persona.
+- RAG for more efficient religion-specific data retrieval.
+- Integrated Stripe Billing.
+
+🔗 https://holyai.app
 
 ---
 
