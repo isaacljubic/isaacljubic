@@ -1,11 +1,54 @@
-**VALENCY:** <br>
-**Aussie. Open-Source. Super-Low Fees.** <br>
+## 🚀 Selected Projects & Products
 
-- 👋 Hi, I’m @isaacljubic
-- 👀 I’m interested in Blockchain and low-level programming. I am currently developing the Valency Exchange, an Australian Cryptocurrency Exchange.
-- 🌱 My previous projects include valency-core - a modular framework used to build the valency network (quantum-proof cryptography, networking framework, hashing algorithm, Web-Based UI Interface (allowing HTML/CSS UI with C++ Backend)).
-- 💵 The Valency Exchange enables low-fee spot trades through our group of industry leading partners. Our app is open-source, and we provide the lowest initial fee of ANY Australian Exchange. <br>
+### Valency: Cryptocurrency Exchange
+Open-source Australian crypto exchange focused on low fees, transparency, and performance.
+- C++ Backend
+- Custom Networking & Cryptography Stack
+- React-based Frontend UI
+- Centralised Open-Source Crypto Exchange
+- Aussie. Open-Source. Super-Low Fees.
 
+🔗 https://valen.cy  
 
+---
 
+### OEX Timepieces: Custom Watches
+Consumer-facing watch brand featuring a fully interactive online watch configurator.
+- React Configurator
+- FastAPI Backend
+- Assembled in Australia
+
+🔗 https://oextime.com  
+
+---
+
+### North Consulting: GTM Consulting & Engineering
+AI-powered go-to-market systems built for revenue growth.
+
+🔗 https://northconsulting.com.au
+
+---
+<br>
+
+## 👋 About Me
+Hi, I’m **Isaac** - a Computer Systems Engineer working across applied AI, backend systems, and crypto infrastructure.
+<br>
+
+## 🛠️ Notable Technical Work
+- **valency-core** — a modular C++ framework powering the Valency network, including:
+  - Quantum-resistant cryptography experiments  
+  - High-performance networking  
+  - Custom hashing primitives  
+  - Web-based UI layer (HTML/CSS frontend with C++ backend)
+<br>
+
+## ⚡ Focus Areas
+- AI Systems Engineering
+- GTM Engineering
+- Low-latency Systems
+- Cryptography & Security  
+- Financial Infrastructure 
+<br>
+
+## ⏱️ When will the streak end?
 [![GitHub Streak](https://streak-stats.demolab.com?user=isaacljubic&theme=dark&border_radius=20)](https://git.io/streak-stats)
