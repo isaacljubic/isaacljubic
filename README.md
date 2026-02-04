@@ -45,23 +45,15 @@ AI-powered go-to-market systems built for revenue growth.
 
 ## 👋 About Me
 Hi, I’m **Isaac** - a Computer Systems Engineer working across applied AI, backend systems, and crypto infrastructure.
-<br>
+<br><br>
 
-## 🛠️ Notable Technical Work
-- **valency-core** — a modular C++ framework powering the Valency network, including:
+## 🛠️ Notable Open-Source Work
+- **valency-core**: a modular C++ framework powering the Valency network, including:
   - Quantum-resistant cryptography experiments  
   - High-performance networking  
   - Custom hashing primitives  
   - Web-based UI layer (HTML/CSS frontend with C++ backend)
-<br>
-
-## ⚡ Focus Areas
-- AI Systems Engineering
-- GTM Engineering
-- Low-latency Systems
-- Cryptography & Security  
-- Financial Infrastructure 
-<br>
+<br><br>
 
 ## ⏱️ When will the streak end?
 [![GitHub Streak](https://streak-stats.demolab.com?user=isaacljubic&theme=dark&border_radius=20)](https://git.io/streak-stats)
