@@ -39,6 +39,10 @@ AI-powered chatbot platform that lets you have meaningful conversations with AI 
 AI-powered go-to-market systems built for revenue growth.
 
 🔗 https://northconsulting.com.au
+- AI Systems
+- Automated GTM Engineering Workflows
+- AI Systems
+- Workflow Systemization
 
 ---
 <br>
