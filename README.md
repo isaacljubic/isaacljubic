@@ -8,7 +8,7 @@ Open-source Australian crypto exchange focused on low fees, transparency, and pe
 - Centralised Open-Source Crypto Exchange
 - Aussie. Open-Source. Super-Low Fees.
 
-🔗 https://valen.cy  
+🔗 https://valen.cy or https://valency.exchange 
 
 ---
 
