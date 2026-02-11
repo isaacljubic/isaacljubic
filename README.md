@@ -37,11 +37,11 @@ AI-powered chatbot platform that lets you have meaningful conversations with AI 
 
 ### North Consulting: GTM Consulting & Engineering
 AI-powered go-to-market systems built for revenue growth.
-
-🔗 https://northconsulting.com.au
 - Automated GTM Engineering Workflows
 - Complex AI Systems
 - Workflow Systemisation
+
+🔗 https://northconsulting.com.au
 
 ---
 <br>
