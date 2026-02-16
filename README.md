@@ -31,7 +31,7 @@ AI-powered chatbot platform that lets you have meaningful conversations with AI 
 - RAG for more efficient religion-specific data retrieval.
 - Integrated Stripe Billing.
 
-🔗 https://holyai.app <- Currently down for maintenance
+🔗 https://holyai.app
 
 ---
 
